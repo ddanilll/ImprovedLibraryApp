@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImprovedLibraryApp</string>
+    <string name="item_id_format">ID: %d</string>
+</resources>
